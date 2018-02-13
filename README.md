@@ -1,4 +1,4 @@
-# PAVICS-frontend
+# PAVICS
 
 This project focuses on answering the most-pressing needs we’ve identified: creation of standard and custom climate change scenarios for impacts and adaptation studies, exploration, analysis and validation of climate model simulations, as well as visualization of climate change scenarios at the watershed scale. These tasks currently require downloading terabytes of data and heavy data processing that convert raw data into useful products: statistics, graphics, time series, or maps. We plan to turn these time-consuming tasks into a streamlined click, drag and drop exercise. Over 20 collaborators have pledged their support to this vision of an hardware and software interface that gives both experienced researchers and non-specialists access to a highly advanced and powerful toolset.
 
@@ -253,3 +253,6 @@ In production, webpack will extract styles to a `.css` file, minify your JavaScr
 ## Learning Resources
 
 * [Starting out with react-redux-starter-kit](https://suspicious.website/2016/04/29/starting-out-with-react-redux-starter-kit/) is an introduction to the components used in this starter kit with a small example in the end.
+=======
+# react-PAVICS
+>>>>>>> f85a4f843e8b9a2e74a8c2fb6bd2af760e05efcb
